@@ -1,0 +1,554 @@
+ 
+
+ .one{
+    
+    height: 500px;
+    width: 1000px;
+    position: absolute;
+    margin: 40px 500px 0 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(248, 248, 248, 0.876);
+    text-align: justify;
+    
+
+    
+}
+
+.thirtyone{
+    
+    width: 1337px;
+    margin-top: 6px;
+    height: 550px;
+    background-color: rgba(248, 248, 248, 0.876);
+}
+
+
+h1{
+    color: green;
+}
+
+ .two {
+    border: 2px solid;
+    height: 300px;
+   
+    background-color: darkblue;
+    color: white;
+}
+ .two ul{ 
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding-right: 30px;
+    padding-top: 50px; */ */
+
+    
+
+}
+ /* this is for class one and two */
+
+
+ body{
+    background-color: white;
+}
+
+.thirtytwo{
+    
+    height: 650px;
+    width: 1337px;
+    background-color: rgba(248, 248, 248, 0.876);
+    padding-top: 0px;
+    
+
+}
+
+
+.three{
+
+ width: 350px;
+ padding-top: 20px;
+ background-color: white;
+ color: green;
+ display: inline-block;
+ margin: 5px 10px 5px 10px;
+ box-shadow: 5px 5px 5px black;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 14px;
+
+
+}
+
+.fourth{
+  
+ width: 350px;
+ padding-top: 20px;
+ background-color: white;
+ color: green;
+ display: inline-block;
+ margin: 5px 10px 5px 10px;
+ box-shadow: 5px 5px 5px black;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 14px;
+ 
+
+ 
+
+}
+
+.fifth{
+   
+ width: 350px;
+ padding-top: 20px;
+ background-color: white;
+ color: green;
+ display: inline-block;
+ margin: 5px 10px 5px 10px;
+ box-shadow: 5px 5px 5px black;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 14px;
+ 
+}
+.sixth{
+    
+    width: 350px;
+    padding-top: 20px;
+    background-color: white;
+    margin-top: 20px;
+    box-shadow: 5px 5px 5px black;
+    display: inline-block;
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+.seventh{
+    
+    width: 350px;
+    padding-top: 20px;
+    background-color: white;
+    display: inline-block;
+    margin-left: 20px;
+    color: green;
+    box-shadow: 5px 5px 5px black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+.eight{
+    
+    width: 350px;
+    padding-top: 20px;
+    background-color: white;
+    display: inline-block;
+    margin-left: 20px;
+    color: green;
+    box-shadow: 5px 5px 5px black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+} */ 
+
+/* this is for class three four five sixth seventh and eight  */
+
+
+
+
+
+
+/* this is for nintth tenth 11 12 13 14 15 */
+
+.seventeen img :focus-visible{
+   
+    margin-top: 2px;
+    
+}
+.seventeen{
+    height: 400px;
+    position: absolute;
+    width: 1337px;
+    font-family: cursive ;
+    color: green;
+    font-size: 20px;
+    margin-top: 55px;
+    
+}
+
+
+/* this is for seventeen */
+
+
+.eighteen{
+    
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.774);
+    color: lightgray;
+    margin-top: 450px;
+    width: 1337px;
+    
+}
+.nineteen{
+    
+    position: absolute;
+    height: 300px;
+    width: 360px;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+
+.nineteen ul{
+    list-style-type: none;
+
+}
+.nineteen img{
+    padding-top: 1px;
+}
+
+.twenty{
+    position: absolute;
+    
+    
+    width: 200px;
+    margin-left: 900px;
+    margin-top: 45px;
+    height:200px ;
+    color: white;
+    font-family: cursive;
+    font-size: 16px;
+
+}
+
+.twentyone{
+    /* border: 2px solid black; */
+    height: 30px;
+    width: 1175px;
+    /* position: absolute; */
+    margin-left: 70px;
+    background-color: rgb(55, 55, 246);
+    color: white;
+    margin-top: 12px;
+    padding-top: 2px;
+    
+
+
+}
+.twentyone marquee{
+    height: 44px;
+    margin-bottom: 10px;
+    position: relative;
+    font-size: 16px;
+    
+    font-family: cursive;
+    
+}
+
+
+
+
+
+/* .twentytwo{
+    height: 100px;
+    margin-bottom: 60px;
+    text-align: auto;
+} */
+
+
+
+
+ .twentythree{
+     /* border: 2px solid black; */
+    height: 40px;
+    background-color: rgba(74, 74, 243, 0.877);
+
+}
+@media (max-width:600){
+    div{
+        display: block;
+    }
+}
+.twentyfour{
+    
+    width: 200px;
+    position: absolute;
+    height: 20px;
+    margin-top: 6px;
+    margin-left: 105px;
+
+
+}
+
+
+
+ 
+.twentyfive{
+    
+    width: 524px;
+    position: absolute;
+    height: 20px;
+    margin-top: 9px;
+    margin-left: 380px ;
+    color: white;
+    font-size: 17px;
+}
+
+
+
+.twentysix{
+    
+    position: absolute;
+    margin-top: 5px;
+    width: 280px;
+    margin-left: 980px ;
+    height: 30px;
+}
+
+  .twentysix button{
+      padding-bottom: 5px;
+      padding-top: 5px;
+      
+  }
+
+ 
+
+
+.twentyseven{
+    /* border: 2px solid black; */
+    
+    height: 40px;
+    background-color: rgb(251, 251, 251);
+}
+.twentyeight{
+    /* border: 2px solid  black; */
+    position: absolute;
+    margin-left: 100px;
+    
+    height: 10px;
+    
+    margin-bottom: 50px;
+    
+
+}
+.twentynine{
+    
+    margin-left: 470px;
+    margin-top: 20px;
+    
+    background-color: rgb(251, 251, 251);
+}
+
+
+
+.twentynine ul{
+    
+    list-style-type: none;
+    font-family: cursive;
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    
+    
+
+}
+
+.twentynine ul li{
+
+    float: left;
+    width: 230px;
+    height: 60;
+    
+    line-height: 30px;
+    
+
+    
+    
+
+    
+}
+
+
+.twentynine ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    transition:  all ease-in-out;
+    
+}
+
+.twentynine ul li a:hover{
+             background-color:  darkblue;
+             color: white;
+            
+}
+.twentynine ul li ul li{
+            display: none;
+            background-color: rgba(255, 255, 255, 0.938);
+            font-size: 16px;
+            font-family: cursive;
+             
+            
+
+        
+}
+
+.twentynine ul li:hover ul li{
+    display: block;
+}
+
+
+.thirty{
+    
+    height:  450px;
+    background-image: url(RotiBank_Slider.jpg) ;
+    background-size: cover;
+    margin-top: 5px;
+
+}
+
+
+
+.thirtythree{
+    
+    height: 350px;
+    width: 1337px;
+    
+}
+
+.thirtyfour{
+    position: absolute;
+    margin-top: 50px;
+    
+    height: 50px;
+    width: 600px;
+    margin-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(20, 20, 182, 0.876);
+    
+}
+
+
+
+
+
+
+.thirtyfive{
+    position: absolute;
+    /* border: 2px solid black; */
+    height: 60px;
+    width: 350px;
+    margin-top: 130px;
+    margin-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    
+    box-shadow: 5px 5px 5px black;
+    background-color: rgba(248, 248, 248, 0.876);
+    
+}
+
+.thirtyfive img{
+    
+     margin-left: 20px;
+     margin-top: 4px;
+     
+}
+
+/* end of hepatiits */
+
+
+
+
+
+
+
+
+
+.thirtysix{
+    position: absolute;
+    
+    height: 60px;
+    width: 350px;
+    margin-top: 210px;
+    margin-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    box-shadow: 5px 5px 5px black;
+    background-color: rgba(248, 248, 248, 0.876);
+}
+.thirtysix img{
+    
+    margin-left: 20px;
+    margin-top: 6px;
+}
+    
+/* }this  is for literacy */
+
+
+
+
+
+
+
+
+
+
+
+
+.thirtyseven{
+    position: absolute;
+    
+    height: 60px;
+    width: 350px;
+    margin-top: 130px;
+    margin-left: 440px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    box-shadow: 5px 5px 5px black;
+    background-color: rgba(248, 248, 248, 0.876);
+}
+
+.thirtyseven img{
+    
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+/* this os for housing society */
+
+
+
+
+
+
+.thirtyeight{
+    position: absolute;
+   
+    height: 60px;
+    width: 350px;
+    margin-top: 210px;
+    margin-left: 440px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    box-shadow: 5px 5px 5px black;
+    background-color: rgba(248, 248, 248, 0.876);
+
+}
+.thirtyeight img{
+    
+    margin-left: 20px;
+    margin-top: 6px;
+}
+
+
+
+
+
+
+
+.thirtynine{
+    
+    position: absolute;
+    margin-top: 50px;
+    width: 250px;
+    margin-left: 840px;
+    height: 280px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+} 
